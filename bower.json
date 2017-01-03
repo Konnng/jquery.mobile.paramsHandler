@@ -2,7 +2,8 @@
   "name": "jquery-mobile-params-handler",
   "homepage": "https://github.com/Konnng/jquery.mobile.paramsHandler",
   "authors": [
-    "Julio Vedovatto <juliovedovatto@gmail.com>"
+	"Cameron Askew",
+    "Konnng Digital Agency"
   ],
   "description": "A plug-in for adding URL parameters to jQuery Mobile pages.",
   "main": "jquery.mobile.paramsHandler.js",

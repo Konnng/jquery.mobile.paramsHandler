@@ -1,6 +1,8 @@
 jquery.mobile.paramsHandler
 ===========================
 
+(fork from https://github.com/CameronAskew/jquery.mobile.paramsHandler)
+
 A plug-in for adding URL parameters to jQuery Mobile pages.
 
 <br />
@@ -46,7 +48,7 @@ $.mobile.paramsHandler.addPage(
     "two",                      // id of jquery mobile page you want to accept URL parameters
     ["param1", "param2"],       // required parameters for that page
     [],                         // optional parameters for that page,
-    
+
     // callback function for when that page is about to show
     function (urlParams) {
         $("#param1display").html(urlParams.param1);
